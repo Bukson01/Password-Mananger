@@ -14,7 +14,7 @@ This is a simple password manager application that allows you to securely store 
 To get started with the password manager, follow these steps:
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/password-manager.git
+git clone https://github.com/Bukson01/Password-Manager.git
 
 2. Install the required dependencies:
 pip install -r requirements.txt
